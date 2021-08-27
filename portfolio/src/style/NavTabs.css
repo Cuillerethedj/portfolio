@@ -1,0 +1,20 @@
+a.nav-link {
+  color: #FF6B6B;
+  -webkit-text-stroke: 1.76px #012443;
+}
+.nav-tabs {
+    background-color:#FF6B6B;
+    border-radius: 0px 100px 0px 100px;
+    padding: 15px;
+    border:thick #012443 solid;
+}
+.nav-tabs a:hover {
+    color:#FDD2BF;  
+}
+
+@media screen and (max-width: 600px) {
+    .nav-tabs a {
+      float: none;
+      width: 100%;
+    }
+  }

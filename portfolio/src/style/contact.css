@@ -1,0 +1,15 @@
+.contact-form {
+	background-color: #FDD2BF;
+	padding:100px;
+}
+.email-input {
+	max-width: auto;
+}
+.message-form {
+	max-width: auto;
+	max-height: 300%;
+}
+.btn-custom {
+	margin-top: 15px;
+	background-color:black !important;
+}

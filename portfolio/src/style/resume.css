@@ -1,0 +1,14 @@
+.resume {
+background-color: #FDD2BF;
+text-align: center;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.professional {
+	padding:15%;
+	margin-bottom:22px;
+	font-size: 100px;
+	color: black;
+}
+.summary {
+	font-size: 25px;
+}

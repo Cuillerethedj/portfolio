@@ -1,0 +1,29 @@
+.main-div {
+	background-color: #FDD2BF;
+	padding-top: 350px;
+}
+
+.home-name {
+	text-align: center;
+	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+	font-size: 100px;
+	color: #B61919;
+	-webkit-text-stroke: 4px #FF6B6B;
+	font-weight: 50px;
+	margin-bottom:10px;
+}
+.home-description {
+	text-align: center;
+	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+	font-size: 20px;
+	color: #B61919;
+	-webkit-text-stroke: 2px #B61919;
+	font-weight: 50px;
+	margin-bottom: 100px;
+}
+
+@media only screen and (max-width: 600px) {
+	.home-name {
+			font-size: 50px;
+	}
+}

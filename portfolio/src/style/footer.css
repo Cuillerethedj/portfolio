@@ -1,0 +1,26 @@
+.footer {
+	margin-top: 600px;
+	font-size: 25px;
+	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+	font-weight: 30px;
+	color: #012443;
+	display: block;
+	margin-left: 300px;
+}
+
+.NavLink {
+	display: table-cell;
+	vertical-align: middle;
+	float: left;
+	margin: 15px;
+	font-weight: bold;
+	color: #0D0D0D;
+}
+
+@media screen and (max-width: 600px) {
+	.NavLink {
+			float: none;
+			width: 100%;
+	}
+}
+	

@@ -1,0 +1,32 @@
+.about-page {
+	padding-top: 15px;
+	text-align: center;
+	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+	background-color: #FDD2BF;
+}
+
+.about-title {
+	font-size: 100px;
+	color: #333333;
+}
+
+.about-img {
+	border-radius: 0px 250px 100px 250px;
+}
+
+.about-img:hover {
+	-webkit-filter: grayscale(50%);
+	filter: grayscale(50%);
+}
+
+.description {
+	font-size: 150%;
+	margin-bottom: 300px;
+}
+
+@media only screen and (max-width: 600px) {
+	.about-title {
+			min-width: 100%;
+			font-size: 50px;
+	}
+}
