@@ -1,7 +1,7 @@
 import React from 'react';
 import Footer from './Footer';
 import { Button, Form, FormGroup, Label, Input, } from 'reactstrap';
-import "../pages/Contact";
+import "./Contact";
 import '../../style/contact.css'
 
 const Contact = (props) => {
