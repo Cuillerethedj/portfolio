@@ -7,7 +7,7 @@ import { Nav, NavItem, NavLink } from 'reactstrap';
 export default function Resume() {
   return (
     <div className="resume">
-      <h2 className="professional">Conculson</h2>
+      <h2 className="professional">Conclusion</h2>
       <p className="summary"> 
         Im a self motavated human with a passion for coding. I believe with my U.S.Army training,and 20+ years as a Executive Chef have the ability to to solve problems and adapt to change very well.  
       </p>
